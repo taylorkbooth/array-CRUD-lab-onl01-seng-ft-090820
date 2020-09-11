@@ -18,7 +18,7 @@ end
 
 def remove_element_from_end_of_array(array)
   my_family = ["wow", "terry", "tim", "nick", "ryan", "arrays!"]
-  my_family.pop ("arrays!")
+  .pop ("arrays!")
   puts my_family.inspect
   puts 
 end
