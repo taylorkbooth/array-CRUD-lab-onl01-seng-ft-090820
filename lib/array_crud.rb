@@ -17,7 +17,7 @@ def add_element_to_start_of_array(array, element)
 end
 
 def remove_element_from_end_of_array(array)
-  my_family = ["terry", "tim", "nick", "ryan", "arrays!"]
+  my_family = ["wow", "terry", "tim", "nick", "ryan", "arrays!"]
   my_family.pop ("arrays!")
   puts my_family.inspect 
 end
